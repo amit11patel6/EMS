@@ -1,0 +1,19 @@
+
+
+<anything>
+    
+    <proxool>
+        
+        <alias>abcd</alias>
+        <driver-url>jdbc:oracle:thin:@10.30.2.51:1521:orcl</driver-url>
+        <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+        <driver-properties>
+         <property name="user" value="amit"></property>
+         <property name="password" value="P12345"></property>
+        </driver-properties>
+        <max-connections-count>5</max-connections-count>
+        
+    </proxool>
+    
+    
+</anything>
