@@ -22,6 +22,10 @@ public class Student implements Serializable{
 		this.sName = sName;
 	}
 	
-	
+	public void test(){
+		
+		System.out.println("test method");
+		
+	}
 
 }
