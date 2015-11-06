@@ -15,7 +15,7 @@ public class HibernateUtil {
 					
 			
 		}
-		
+		// only for test
 		return factory;
 	} 
 	
